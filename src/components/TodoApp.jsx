@@ -26,7 +26,7 @@ const TodoApp = () => {
         />
         <button
           onClick={handleAdd}
-          className="bg-blue-500 text-white px-4 py-2 rounded-r-md hover:bg-blue-600"
+          className="bg-green-500 text-white px-4 py-2 rounded-r-md hover:bg-green-600"
         >
           Add
         </button>

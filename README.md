@@ -2,6 +2,12 @@
 
 This is a simple To-Do application built using **React**, **Redux Toolkit**, **Vite**, and **Tailwind CSS**. The project demonstrates the usage of Redux Toolkit to manage the state in a scalable and organized way.
 
+---
+
+## Screenshots
+### Application Preview
+![App Screenshot](./src/assets/app-preview.png)
+
 ## Project Structure
 ```
 src/
@@ -96,10 +102,6 @@ src/
 - Centralized state management.
 - Simplified syntax for reducers and actions.
 - Scalable structure for large applications.
-
-## Screenshots
-### Application Preview
-![App Screenshot](./assets/app-preview.png)
 
 ## Future Enhancements
 - Add filters (e.g., show all/completed/incomplete tasks).
