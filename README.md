@@ -99,7 +99,7 @@ src/
 
 ## Screenshots
 ### Application Preview
-![App Screenshot](./screenshots/app-preview.png)
+![App Screenshot](./assets/app-preview.png)
 
 ## Future Enhancements
 - Add filters (e.g., show all/completed/incomplete tasks).
@@ -107,7 +107,7 @@ src/
 
 ## Author
 - **Mohan Marwari**  
-  [Instagram](https://instagram.com/mohan_marwari) | [Twitter](https://twitter.com/mohan_marwari) | [GitHub](https://github.com/mohan_marwari)
+  [Linkedin](https://linkedin.com/in/mohan-marwari) | [Twitter](https://twitter.com/mohan_marwari) | [GitHub](https://github.com/mohan-marwari)
 
 ---
 Feel free to explore and modify the project to learn more about Redux Toolkit! 😊
